@@ -11,10 +11,9 @@
 
 - Run the conversion with 
 
-    @sweet_tea.gramulate`
-
+  `@sweet_tea.gramulate`
 
 
 - Show your original recipe units with 
 
-    @sweet_tea.original
+  `@sweet_tea.original`
