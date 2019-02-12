@@ -1,6 +1,6 @@
-require_relative 'Units'
-require_relative 'Converter'
-require_relative 'Recipes'
+require_relative 'Gramulator/Units'
+require_relative 'Gramulator/Converter'
+require_relative 'Gramulator/Recipes'
 
 =begin
 add a recipe to Recipes.rb like so
