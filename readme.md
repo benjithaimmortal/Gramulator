@@ -3,7 +3,7 @@
 - It takes recipes in a hash like so:
 
 >
-    @sweet_tea = ({
+    @sweet_tea = Recipe.new({
       hot_water: 8 cups,
       tea:       2 envelopes,
       ice:       2 cups
